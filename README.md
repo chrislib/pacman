@@ -3,6 +3,7 @@
 **P**retty **A**wesome **C**ontent **Man**ager
 
 The simple idea behind it is to extend HTML by a few helpful tags to get content from the database into an xml template.
+I got the code down to 400 lines of php - but at the moment it only does a very basic job - updates coming soon!
 
 Command reference so far:
 
