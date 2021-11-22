@@ -23,3 +23,7 @@ Command reference so far:
 
 &lt;db tbl="..." col="..." /&gt;
 - fetch the data, please ! ;o)
+
+%abc
+- will get replaced anywhere in the code by either database content ( like %tbl_col )
+- or variables from SESSION or GET ( such that you cannot override the first with the latter xD
