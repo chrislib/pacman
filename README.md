@@ -26,4 +26,4 @@ Command reference so far:
 
 %abc
 - will get replaced anywhere in the code by either database content ( like %tbl_col )
-- or variables from SESSION or GET ( such that you cannot override the first with the latter xD
+- or variables from SESSION or POST/GET ( such that you cannot override the first with the latter xD
