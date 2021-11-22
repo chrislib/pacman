@@ -15,7 +15,7 @@ Command reference so far:
 &lt;if var/tbl="..." (key/row="...") val/min/max/set="..."&gt;  
 (&lt;else&gt;)
 &lt;/if&gt;
-- var looks for a php variable (if key is set, we take an array)
+- var looks for a php variable (if key is set, we take an array or object)
 - tbl + row goes to the database
 - and val/min/max/set describes our condition
 
