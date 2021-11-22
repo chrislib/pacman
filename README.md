@@ -22,4 +22,4 @@ Command reference so far:
 - gets us the value of some php variable
 
 &lt;db tbl="..." col="..." /&gt;
-- fetch the data, please
+- fetch the data, please ! ;o)
