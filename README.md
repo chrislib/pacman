@@ -26,6 +26,11 @@ Command reference so far:
 &lt;db tbl="..." col="..." /&gt;
 - fetch the data, please ! ;o)
 
+
+&lt;def var="..." val="..." /&gt;
+- define the data, if you're too lazy for setting up a db table :)
+- var ensures it's got a proper name, val can be a comma separated list of e.g. images or text
+
 %abc
 - will get replaced anywhere in the code by either database content ( like %tbl_col )
 - or variables from SESSION or POST/GET ( such that you cannot override the first with the latter xD
