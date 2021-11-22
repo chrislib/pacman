@@ -11,9 +11,12 @@ Command reference so far:
 - takes a comma separated list of database tables (tbl) and a joining condition (where)
 
 
-&lt;if var/tbl="..." (key/row="...") val/min/max/set="..."&gt;  // var looks for a php variable (if key is set, we take an array)
-(&lt;else&gt;)                                                  // tbl + row goes to the database
-&lt;/if&gt;                                                     // and val/min/max/set describes our condition
+&lt;if var/tbl="..." (key/row="...") val/min/max/set="..."&gt;  
+(&lt;else&gt;)
+&lt;/if&gt;
+- var looks for a php variable (if key is set, we take an array)
+- tbl + row goes to the database
+- and val/min/max/set describes our condition
 
 &lt;var src="..." (key="...") /&gt;   // gets us the value of some php variable
 
