@@ -10,6 +10,7 @@ Command reference so far:
 &lt;for tbl="..." where="..."&gt;
 &lt;/for&gt;
 - takes a comma separated list of database tables (tbl) and a joining condition (where)
+- and loops over the contents (thus replicating everything inside the for tag)
 
 
 &lt;if var/tbl="..." (key/row="...") val/min/max/set="..."&gt;  
