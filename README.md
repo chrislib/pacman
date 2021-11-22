@@ -5,7 +5,7 @@ Pretty Awesome Content Manager
 The simple idea behind it is to extend HTML with a few helpful tags to get content from the database into an xml template.
 
 Command reference so far:
-
+/*
 <for tbl="..." where="...">   // tbl takes a comma separated list of database tables, the where here is obviousle the joining condition
 </for>
 
@@ -16,4 +16,4 @@ Command reference so far:
 <var src="..." (key="...") />   // gets us the value of some php variable
 
 <db tbl="..." col="..." />      // fetch the data, please
-
+*/
