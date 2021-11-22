@@ -7,7 +7,7 @@ The simple idea behind it is to extend HTML with a few helpful tags to get conte
 Command reference so far:
 
 &lt;for tbl="..." where="..."&gt;
-  // tbl takes a comma separated list of database tables, the where here is obviously the joining condition
+<br> tbl takes a comma separated list of database tables, the where here is obviously the joining condition <br>
 &lt;/for&gt;
 
 &lt;if var/tbl="..." (key/row="...") val/min/max/set="..."&gt;  // var looks for a php variable (if key is set, we take an array)
