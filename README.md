@@ -1,6 +1,6 @@
 # pacman
 
-Pretty Awesome Content Manager
+**P**retty **A**wesome **C**ontent **Man**ager
 
 The simple idea behind it is to extend HTML with a few helpful tags to get content from the database into an xml template.
 
