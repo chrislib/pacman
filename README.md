@@ -18,7 +18,8 @@ Command reference so far:
 - tbl + row goes to the database
 - and val/min/max/set describes our condition
 
-&lt;var src="..." (key="...") /&gt;   // gets us the value of some php variable
+&lt;var src="..." (key="...") /&gt;
+- gets us the value of some php variable
 
-&lt;db tbl="..." col="..." /&gt;      // fetch the data, please
-
+&lt;db tbl="..." col="..." /&gt;
+- fetch the data, please
